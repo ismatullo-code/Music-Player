@@ -1,0 +1,9 @@
+{
+  "name": "futuristic-cyberpunk-audio-player",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "android": "gradlew assembleDebug",
+    "build": "gradlew assembleRelease"
+  }
+}

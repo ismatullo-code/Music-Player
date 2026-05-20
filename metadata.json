@@ -1,0 +1,6 @@
+{
+  "name": "Futuristic Cyberpunk Audio Player",
+  "description": "An immersive, premium Android audio player featuring an ultra-modern Glassmorphism and Neon Cyberpunk interface with visualizers, equalizer, playlists, and settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
