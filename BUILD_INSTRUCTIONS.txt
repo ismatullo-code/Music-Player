@@ -1,0 +1,5 @@
+1. Upload all files to GitHub
+2. Open Codemagic
+3. Connect GitHub repo
+4. Start build
+5. Download APK from Artifacts
